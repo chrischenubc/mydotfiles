@@ -1,2 +1,1 @@
-# mydotfiles
-my personal configuration
+This is my personal configurations for dotfiles
